@@ -1,5 +1,14 @@
+# ambiente virtual e caches
 venv/
+__pycache__/
+*.pyc
+
+# gerados pelo PyInstaller
 build/
 dist/
-__pycache__/
+*.spec
 log.txt
+
+# arquivos de teste/uso
+*_editado.pdf
+*.acordes.json

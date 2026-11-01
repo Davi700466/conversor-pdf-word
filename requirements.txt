@@ -1,1 +1,5 @@
 pdf2docx
+docx2pdf
+pywin32
+pymupdf
+fonttools
