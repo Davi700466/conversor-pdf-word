@@ -14,6 +14,7 @@ junto com o que fui aprendendo.
 | **PDF para Texto** | Extrai o texto de um PDF e salva em `.txt` |
 | **Word para PDF** | Converte `.docx` em PDF (precisa do Microsoft Word instalado) |
 | **PDF de partitura** | Editor de acordes para partituras em PDF |
+![Editor de acordes](assets/partitura.png)
 
 ### Editor de acordes
 
